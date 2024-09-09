@@ -61,80 +61,27 @@ Data modeling is the foundation of any report, directly impacting its performanc
 All the required data for this dashboard are located in the Course Provide CSV files.
 
 
-## Project Walkthrough:
+## Dashboard Design:
 
-### 1. Executive Dashboard
+### 1. Executive Dashboard View
 
-<img src="https://github.com/SandeepanBhattacharyya/Croma-India-Product-Wise-Sales-Report/blob/main/fiscal_date.png" class="center">
+<img src="https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Exec_Dashboard_View.png" class="center">
 
-- The Executive Dashboard provides a high-level summary of Adventure Works' financial status and operational efficiency, focusing on the most important KPIs aligned with the company’s strategic goals.
+### 2. Map View
 
-**Key Features:**
+<img src="https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Map_View.png" class="center">
 
-- **Revenue:** Displays total revenue for the selected period and compares it to the previous month to assess growth.
+### 3. Product Detail View
 
-- **Profit:** Reflects total profit, giving insight into the effectiveness of cost management.
+<img src="https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Product_Detail_View.png" class="center">
 
-- **Orders:** Shows the total number of orders, offering a perspective on market demand.
+### 4. Customer Detail View
 
-- **ROI %:** Calculates return on investment by comparing profit to costs, highlighting spending efficiency.
-
-- **Monthly Trends:** A line chart illustrating trends in revenue and orders over time, revealing seasonal patterns and growth trajectories.
-
-- **Top 10 Products:** A table listing the top 10 products by orders, revenue, profit, and return rate, helping to identify top performers and those with high return rates that may need attention.
-
-- **Orders by Category:** A pie chart showing the distribution of orders across different product categories (Accessories, Bikes, Clothing), providing insight into category popularity.
-
-- **Profit by Country and Category:** A bar chart breaking down profit by country and product category, offering a view of geographic performance and key revenue sources.
-
-This dashboard facilitates swift decision-making by offering a clear, concise view of critical business metrics. For instance, a high ROI percentage suggests resource efficiency, while high return rates highlight potential areas for product quality improvement. Understanding the geographic distribution of profits helps tailor marketing efforts and expansion plans.
-
-### 2. Product Detail
-
-<img src="https://github.com/SandeepanBhattacharyya/Croma-India-Product-Wise-Sales-Report/blob/main/fiscal_date.png" class="center">
-
-The Product Detail Dashboard offers an in-depth analysis of product performance, with a focus on returns and profitability. This dashboard helps pinpoint the products that are driving sales and those that may require improvements.
-
-**Key Features:**
-
-- **Orders Return:** Tracks the total number of returned orders, shedding light on customer satisfaction and potential product quality issues.
-
-- **Average Cost per Return:** Measures the financial impact of returns, which can influence overall profitability.
-
-- **Revenue and Return by Category:** Displays pie charts that compare revenue and return distribution by category, enabling an analysis of sales versus returns.
-
-- **Top 10 Returned Products:** A bar chart that highlights products with the highest return rates, indicating areas that may need quality improvements.
-
-- **Orders by Month and Category:** A line chart that shows monthly order trends by category, assisting in inventory management and seasonal planning.
-
-- **Subcategory Products:** A table presenting subcategory orders, revenue, profit, and return rate, offering a more granular view of product performance.
-
-- **% Lost to Returns:** This KPI highlights the percentage of revenue lost due to returns, helping the company assess the financial impact of returns on overall sales.
-
-- **Return Rate**: Displays the return rate percentage, indicating the proportion of total sales that were returned and providing insight into potential product issues or misalignment with customer expectations.
-
-This dashboard is crucial for identifying trends in product returns and offers actionable insights for reducing return rates and enhancing product quality. For example, a high return rate for a particular item might suggest a need for improved quality control or clearer product descriptions. Understanding the percentage of revenue lost to returns is essential for assessing the impact on overall sales, while focusing on high-return products can guide strategies to boost customer satisfaction and minimize losses.
-
-### 3. Customer Detail
-
-<img src="https://github.com/SandeepanBhattacharyya/Croma-India-Product-Wise-Sales-Report/blob/main/fiscal_date.png" class="center">
-
-The Customer Detail Dashboard offers a thorough analysis of customer demographics, purchasing habits, and retention rates, helping the company better understand its customer base and refine marketing strategies. Meanwhile, the Geographic Dashboard visually maps out sales distribution across various regions, highlighting strong markets and uncovering growth opportunities in areas that are underperforming.
-
-**Key Features:**
-
-- **Unique Customers:** Displays the total number of unique customers, indicating the size of the customer base.
-
-- **Avg per Customer:** Shows the average spending per customer, emphasizing customer value.
-
-- **Purchase Frequency:** Tracks the average number of purchases per customer, providing insight into customer engagement levels.
-
-- **Customer Segmentation:** Visualizes customer distribution by country, income level, and gender, helping to identify key segments for targeted marketing efforts.
-
-- **Monthly New Customers:** A line chart tracking the number of new customers acquired each month, reflecting the impact of marketing campaigns.
-
-- **Monthly Churned vs. Retained Customers:** A stacked area chart showing trends in customer retention and churn, offering insights into customer loyalty and the effectiveness of retention strategies.
-
-By analyzing customer demographics and behaviors, this dashboard helps the company pinpoint opportunities for targeted marketing and customer retention initiatives. For instance, identifying customer segments with the highest churn rates can guide the development of more effective retention strategies.
+<img src="https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Customer_Detail_View.png" class="center">
 
 
+Access the Full Report: [Report](https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Adventure_Works_Project_report.pdf)
+
+### Project Outcome
+
+This project highlights my expertise in using Power BI to develop insightful and interactive dashboards that support data-driven decision-making. By applying diverse data visualization methods and DAX calculations, I have delivered a thorough analysis of Adventure Works' performance, demonstrating the effectiveness of data visualization in gaining insights and optimizing business operations.
