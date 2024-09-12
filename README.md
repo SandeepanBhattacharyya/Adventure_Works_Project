@@ -80,7 +80,7 @@ All the required data for this dashboard are located in the Course Provide CSV f
 <img src="https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Customer_Detail_View.png" class="center">
 
 
-Access the Full Report: [Report](https://github.com/SandeepanBhattacharyya/Adventure_Works_Project/blob/main/Adventure_Works_Project_report.pdf)
+Access the Full Report: [Report](https://project.novypro.com/OMVHcx)
 
 ### Project Outcome
 
